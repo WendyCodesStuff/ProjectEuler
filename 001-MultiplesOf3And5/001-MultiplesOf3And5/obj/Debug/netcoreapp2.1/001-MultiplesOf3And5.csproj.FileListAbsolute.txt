@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/bin/Debug/netcoreapp2.1/001-MultiplesOf3And5.deps.json
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/bin/Debug/netcoreapp2.1/001-MultiplesOf3And5.runtimeconfig.json
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/bin/Debug/netcoreapp2.1/001-MultiplesOf3And5.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/bin/Debug/netcoreapp2.1/001-MultiplesOf3And5.dll
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/bin/Debug/netcoreapp2.1/001-MultiplesOf3And5.pdb
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.dll
+/Users/wendy/Projects/Euler/001-MultiplesOf3And5/001-MultiplesOf3And5/obj/Debug/netcoreapp2.1/001-MultiplesOf3And5.pdb
