@@ -1,0 +1,11 @@
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/bin/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.deps.json
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/bin/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.runtimeconfig.json
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/bin/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.runtimeconfig.dev.json
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/bin/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.dll
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/bin/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.pdb
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.csprojAssemblyReference.cache
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.AssemblyInfoInputs.cache
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.AssemblyInfo.cs
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.dll
+/Users/wendy/Projects/002-EvenFibonacciNumbers/002-EvenFibonacciNumbers/obj/Debug/netcoreapp2.1/002-EvenFibonacciNumbers.pdb
