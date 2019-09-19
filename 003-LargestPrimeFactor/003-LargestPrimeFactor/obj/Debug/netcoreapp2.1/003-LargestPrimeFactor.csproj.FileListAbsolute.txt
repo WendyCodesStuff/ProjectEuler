@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/bin/Debug/netcoreapp2.1/003-LargestPrimeFactor.deps.json
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/bin/Debug/netcoreapp2.1/003-LargestPrimeFactor.runtimeconfig.json
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/bin/Debug/netcoreapp2.1/003-LargestPrimeFactor.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/bin/Debug/netcoreapp2.1/003-LargestPrimeFactor.dll
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/bin/Debug/netcoreapp2.1/003-LargestPrimeFactor.pdb
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.dll
+/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/Debug/netcoreapp2.1/003-LargestPrimeFactor.pdb

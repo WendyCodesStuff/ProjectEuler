@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/003-LargestPrimeFactor.csproj": {}
+  },
+  "projects": {
+    "/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/003-LargestPrimeFactor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/003-LargestPrimeFactor.csproj",
+        "projectName": "003-LargestPrimeFactor",
+        "projectPath": "/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/003-LargestPrimeFactor.csproj",
+        "packagesPath": "/Users/wendy/.nuget/packages/",
+        "outputPath": "/Users/wendy/Projects/Euler/003-LargestPrimeFactor/003-LargestPrimeFactor/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wendy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
