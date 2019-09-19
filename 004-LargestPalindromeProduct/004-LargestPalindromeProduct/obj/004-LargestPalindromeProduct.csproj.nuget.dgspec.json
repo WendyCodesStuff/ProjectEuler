@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wendy/Projects/Euler/004-LargestPalindromeProduct/004-LargestPalindromeProduct/004-LargestPalindromeProduct.csproj": {}
+  },
+  "projects": {
+    "/Users/wendy/Projects/Euler/004-LargestPalindromeProduct/004-LargestPalindromeProduct/004-LargestPalindromeProduct.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wendy/Projects/Euler/004-LargestPalindromeProduct/004-LargestPalindromeProduct/004-LargestPalindromeProduct.csproj",
+        "projectName": "004-LargestPalindromeProduct",
+        "projectPath": "/Users/wendy/Projects/Euler/004-LargestPalindromeProduct/004-LargestPalindromeProduct/004-LargestPalindromeProduct.csproj",
+        "packagesPath": "/Users/wendy/.nuget/packages/",
+        "outputPath": "/Users/wendy/Projects/Euler/004-LargestPalindromeProduct/004-LargestPalindromeProduct/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wendy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
