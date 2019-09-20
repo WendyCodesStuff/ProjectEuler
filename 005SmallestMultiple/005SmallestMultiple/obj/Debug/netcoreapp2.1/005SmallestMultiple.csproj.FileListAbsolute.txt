@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/bin/Debug/netcoreapp2.1/005SmallestMultiple.deps.json
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/bin/Debug/netcoreapp2.1/005SmallestMultiple.runtimeconfig.json
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/bin/Debug/netcoreapp2.1/005SmallestMultiple.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/bin/Debug/netcoreapp2.1/005SmallestMultiple.dll
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/bin/Debug/netcoreapp2.1/005SmallestMultiple.pdb
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.dll
+/Users/wendy/Projects/Euler/005SmallestMultiple/005SmallestMultiple/obj/Debug/netcoreapp2.1/005SmallestMultiple.pdb
