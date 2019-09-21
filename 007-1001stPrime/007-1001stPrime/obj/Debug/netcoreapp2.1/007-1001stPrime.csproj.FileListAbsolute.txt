@@ -1,0 +1,11 @@
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/bin/Debug/netcoreapp2.1/007-1001stPrime.deps.json
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/bin/Debug/netcoreapp2.1/007-1001stPrime.runtimeconfig.json
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/bin/Debug/netcoreapp2.1/007-1001stPrime.runtimeconfig.dev.json
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/bin/Debug/netcoreapp2.1/007-1001stPrime.dll
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/bin/Debug/netcoreapp2.1/007-1001stPrime.pdb
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.csprojAssemblyReference.cache
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.AssemblyInfoInputs.cache
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.AssemblyInfo.cs
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.dll
+/Users/wendy/Projects/007-1001stPrime/007-1001stPrime/obj/Debug/netcoreapp2.1/007-1001stPrime.pdb
