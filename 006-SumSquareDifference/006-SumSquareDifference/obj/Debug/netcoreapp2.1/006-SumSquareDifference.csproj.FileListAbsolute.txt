@@ -1,0 +1,11 @@
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/bin/Debug/netcoreapp2.1/006-SumSquareDifference.deps.json
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/bin/Debug/netcoreapp2.1/006-SumSquareDifference.runtimeconfig.json
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/bin/Debug/netcoreapp2.1/006-SumSquareDifference.runtimeconfig.dev.json
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/bin/Debug/netcoreapp2.1/006-SumSquareDifference.dll
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/bin/Debug/netcoreapp2.1/006-SumSquareDifference.pdb
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.csprojAssemblyReference.cache
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.AssemblyInfoInputs.cache
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.AssemblyInfo.cs
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.dll
+/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/Debug/netcoreapp2.1/006-SumSquareDifference.pdb

@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/006-SumSquareDifference.csproj": {}
+  },
+  "projects": {
+    "/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/006-SumSquareDifference.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/006-SumSquareDifference.csproj",
+        "projectName": "006-SumSquareDifference",
+        "projectPath": "/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/006-SumSquareDifference.csproj",
+        "packagesPath": "/Users/wendy/.nuget/packages/",
+        "outputPath": "/Users/wendy/Projects/006-SumSquareDifference/006-SumSquareDifference/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/wendy/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
