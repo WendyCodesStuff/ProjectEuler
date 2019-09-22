@@ -1,0 +1,11 @@
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/bin/Debug/netcoreapp2.1/008-13AdjacentDigits.deps.json
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/bin/Debug/netcoreapp2.1/008-13AdjacentDigits.runtimeconfig.json
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/bin/Debug/netcoreapp2.1/008-13AdjacentDigits.runtimeconfig.dev.json
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/bin/Debug/netcoreapp2.1/008-13AdjacentDigits.dll
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/bin/Debug/netcoreapp2.1/008-13AdjacentDigits.pdb
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.csprojAssemblyReference.cache
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.AssemblyInfoInputs.cache
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.AssemblyInfo.cs
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.dll
+/Users/wendy/Projects/008-13AdjacentDigits/008-13AdjacentDigits/obj/Debug/netcoreapp2.1/008-13AdjacentDigits.pdb
