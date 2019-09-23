@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/bin/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.deps.json
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/bin/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.runtimeconfig.json
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/bin/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/bin/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.dll
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/bin/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.pdb
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.dll
+/Users/wendy/Projects/Euler/009-Special-Pythag-Quicker/009-Special-Pythag-Quicker/obj/Debug/netcoreapp2.1/009-Special-Pythag-Quicker.pdb
