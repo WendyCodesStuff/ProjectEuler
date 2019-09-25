@@ -1,0 +1,11 @@
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/bin/Debug/netcoreapp2.1/010-SummationOfPrimes.deps.json
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/bin/Debug/netcoreapp2.1/010-SummationOfPrimes.runtimeconfig.json
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/bin/Debug/netcoreapp2.1/010-SummationOfPrimes.runtimeconfig.dev.json
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/bin/Debug/netcoreapp2.1/010-SummationOfPrimes.dll
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/bin/Debug/netcoreapp2.1/010-SummationOfPrimes.pdb
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.csprojAssemblyReference.cache
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.AssemblyInfoInputs.cache
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.AssemblyInfo.cs
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.dll
+/Users/wendy/Projects/010-SummationOfPrimes/010-SummationOfPrimes/obj/Debug/netcoreapp2.1/010-SummationOfPrimes.pdb
