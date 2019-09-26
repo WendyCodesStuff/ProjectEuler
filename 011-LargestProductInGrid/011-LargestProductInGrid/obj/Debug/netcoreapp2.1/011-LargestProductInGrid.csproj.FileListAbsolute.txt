@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/bin/Debug/netcoreapp2.1/011-LargestProductInGrid.deps.json
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/bin/Debug/netcoreapp2.1/011-LargestProductInGrid.runtimeconfig.json
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/bin/Debug/netcoreapp2.1/011-LargestProductInGrid.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/bin/Debug/netcoreapp2.1/011-LargestProductInGrid.dll
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/bin/Debug/netcoreapp2.1/011-LargestProductInGrid.pdb
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.dll
+/Users/wendy/Projects/Euler/011-LargestProductInGrid/011-LargestProductInGrid/obj/Debug/netcoreapp2.1/011-LargestProductInGrid.pdb
