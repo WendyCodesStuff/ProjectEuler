@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/bin/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.deps.json
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/bin/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.runtimeconfig.json
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/bin/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/bin/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.dll
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/bin/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.pdb
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.dll
+/Users/wendy/Projects/Euler/012-HighlyDivisiblyTriangular/012-HighlyDivisiblyTriangular/obj/Debug/netcoreapp2.1/012-HighlyDivisiblyTriangular.pdb
