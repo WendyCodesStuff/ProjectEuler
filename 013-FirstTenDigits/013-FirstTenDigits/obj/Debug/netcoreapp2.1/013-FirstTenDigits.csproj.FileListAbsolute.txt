@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/bin/Debug/netcoreapp2.1/013-FirstTenDigits.deps.json
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/bin/Debug/netcoreapp2.1/013-FirstTenDigits.runtimeconfig.json
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/bin/Debug/netcoreapp2.1/013-FirstTenDigits.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/bin/Debug/netcoreapp2.1/013-FirstTenDigits.dll
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/bin/Debug/netcoreapp2.1/013-FirstTenDigits.pdb
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.dll
+/Users/wendy/Projects/Euler/013-FirstTenDigits/013-FirstTenDigits/obj/Debug/netcoreapp2.1/013-FirstTenDigits.pdb
