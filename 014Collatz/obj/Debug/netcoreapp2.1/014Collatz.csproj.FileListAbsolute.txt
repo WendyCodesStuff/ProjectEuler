@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/bin/Debug/netcoreapp2.1/014Collatz.deps.json
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/bin/Debug/netcoreapp2.1/014Collatz.runtimeconfig.json
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/bin/Debug/netcoreapp2.1/014Collatz.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/bin/Debug/netcoreapp2.1/014Collatz.dll
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/bin/Debug/netcoreapp2.1/014Collatz.pdb
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.dll
+/Users/wendy/Projects/Euler/014Collatz/014Collatz/obj/Debug/netcoreapp2.1/014Collatz.pdb
