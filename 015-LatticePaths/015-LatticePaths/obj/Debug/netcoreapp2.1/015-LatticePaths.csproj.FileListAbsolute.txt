@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/bin/Debug/netcoreapp2.1/015-LatticePaths.deps.json
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/bin/Debug/netcoreapp2.1/015-LatticePaths.runtimeconfig.json
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/bin/Debug/netcoreapp2.1/015-LatticePaths.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/bin/Debug/netcoreapp2.1/015-LatticePaths.dll
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/bin/Debug/netcoreapp2.1/015-LatticePaths.pdb
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.dll
+/Users/wendy/Projects/Euler/015-LatticePaths/015-LatticePaths/obj/Debug/netcoreapp2.1/015-LatticePaths.pdb
