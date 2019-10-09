@@ -1,0 +1,11 @@
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/bin/Debug/netcoreapp2.1/16-Power-Digit_sum.deps.json
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/bin/Debug/netcoreapp2.1/16-Power-Digit_sum.runtimeconfig.json
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/bin/Debug/netcoreapp2.1/16-Power-Digit_sum.runtimeconfig.dev.json
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/bin/Debug/netcoreapp2.1/16-Power-Digit_sum.dll
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/bin/Debug/netcoreapp2.1/16-Power-Digit_sum.pdb
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.csprojAssemblyReference.cache
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.AssemblyInfoInputs.cache
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.AssemblyInfo.cs
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.dll
+/Users/wendy/Projects/16-Power-Digit_sum/16-Power-Digit_sum/obj/Debug/netcoreapp2.1/16-Power-Digit_sum.pdb
