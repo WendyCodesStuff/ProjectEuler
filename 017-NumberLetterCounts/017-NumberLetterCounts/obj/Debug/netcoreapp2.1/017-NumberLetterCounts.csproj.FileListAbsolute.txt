@@ -1,0 +1,11 @@
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/bin/Debug/netcoreapp2.1/017-NumberLetterCounts.deps.json
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/bin/Debug/netcoreapp2.1/017-NumberLetterCounts.runtimeconfig.json
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/bin/Debug/netcoreapp2.1/017-NumberLetterCounts.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/bin/Debug/netcoreapp2.1/017-NumberLetterCounts.dll
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/bin/Debug/netcoreapp2.1/017-NumberLetterCounts.pdb
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.csproj.CoreCompileInputs.cache
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.dll
+/Users/wendy/Projects/Euler/017-NumberLetterCounts/017-NumberLetterCounts/obj/Debug/netcoreapp2.1/017-NumberLetterCounts.pdb
