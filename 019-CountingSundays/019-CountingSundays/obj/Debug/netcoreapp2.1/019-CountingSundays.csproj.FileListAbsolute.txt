@@ -1,0 +1,10 @@
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/bin/Debug/netcoreapp2.1/019-CountingSundays.deps.json
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/bin/Debug/netcoreapp2.1/019-CountingSundays.runtimeconfig.json
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/bin/Debug/netcoreapp2.1/019-CountingSundays.runtimeconfig.dev.json
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/bin/Debug/netcoreapp2.1/019-CountingSundays.dll
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/bin/Debug/netcoreapp2.1/019-CountingSundays.pdb
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/obj/Debug/netcoreapp2.1/019-CountingSundays.csprojAssemblyReference.cache
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/obj/Debug/netcoreapp2.1/019-CountingSundays.AssemblyInfoInputs.cache
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/obj/Debug/netcoreapp2.1/019-CountingSundays.AssemblyInfo.cs
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/obj/Debug/netcoreapp2.1/019-CountingSundays.dll
+/Users/wendy/Projects/019-CountingSundays/019-CountingSundays/obj/Debug/netcoreapp2.1/019-CountingSundays.pdb
