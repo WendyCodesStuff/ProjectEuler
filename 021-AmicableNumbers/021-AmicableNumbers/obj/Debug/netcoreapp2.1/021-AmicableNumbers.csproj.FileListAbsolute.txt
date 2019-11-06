@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/bin/Debug/netcoreapp2.1/021-AmicableNumbers.deps.json
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/bin/Debug/netcoreapp2.1/021-AmicableNumbers.runtimeconfig.json
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/bin/Debug/netcoreapp2.1/021-AmicableNumbers.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/bin/Debug/netcoreapp2.1/021-AmicableNumbers.dll
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/bin/Debug/netcoreapp2.1/021-AmicableNumbers.pdb
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/obj/Debug/netcoreapp2.1/021-AmicableNumbers.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/obj/Debug/netcoreapp2.1/021-AmicableNumbers.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/obj/Debug/netcoreapp2.1/021-AmicableNumbers.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/obj/Debug/netcoreapp2.1/021-AmicableNumbers.dll
+/Users/wendy/Projects/Euler/021-AmicableNumbers/021-AmicableNumbers/obj/Debug/netcoreapp2.1/021-AmicableNumbers.pdb
