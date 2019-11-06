@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/bin/Debug/netcoreapp2.1/020-FactorialDigitSum.deps.json
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/bin/Debug/netcoreapp2.1/020-FactorialDigitSum.runtimeconfig.json
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/bin/Debug/netcoreapp2.1/020-FactorialDigitSum.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/bin/Debug/netcoreapp2.1/020-FactorialDigitSum.dll
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/bin/Debug/netcoreapp2.1/020-FactorialDigitSum.pdb
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/obj/Debug/netcoreapp2.1/020-FactorialDigitSum.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/obj/Debug/netcoreapp2.1/020-FactorialDigitSum.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/obj/Debug/netcoreapp2.1/020-FactorialDigitSum.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/obj/Debug/netcoreapp2.1/020-FactorialDigitSum.dll
+/Users/wendy/Projects/Euler/020-FactorialDigitSum/020-FactorialDigitSum/obj/Debug/netcoreapp2.1/020-FactorialDigitSum.pdb
