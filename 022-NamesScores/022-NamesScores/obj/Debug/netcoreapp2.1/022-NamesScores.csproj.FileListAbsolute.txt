@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/bin/Debug/netcoreapp2.1/022-NamesScores.deps.json
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/bin/Debug/netcoreapp2.1/022-NamesScores.runtimeconfig.json
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/bin/Debug/netcoreapp2.1/022-NamesScores.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/bin/Debug/netcoreapp2.1/022-NamesScores.dll
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/bin/Debug/netcoreapp2.1/022-NamesScores.pdb
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/obj/Debug/netcoreapp2.1/022-NamesScores.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/obj/Debug/netcoreapp2.1/022-NamesScores.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/obj/Debug/netcoreapp2.1/022-NamesScores.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/obj/Debug/netcoreapp2.1/022-NamesScores.dll
+/Users/wendy/Projects/Euler/022-NamesScores/022-NamesScores/obj/Debug/netcoreapp2.1/022-NamesScores.pdb
