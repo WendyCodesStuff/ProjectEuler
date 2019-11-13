@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/bin/Debug/netcoreapp2.1/024-LexicographicPermutations.deps.json
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/bin/Debug/netcoreapp2.1/024-LexicographicPermutations.runtimeconfig.json
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/bin/Debug/netcoreapp2.1/024-LexicographicPermutations.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/bin/Debug/netcoreapp2.1/024-LexicographicPermutations.dll
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/bin/Debug/netcoreapp2.1/024-LexicographicPermutations.pdb
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/obj/Debug/netcoreapp2.1/024-LexicographicPermutations.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/obj/Debug/netcoreapp2.1/024-LexicographicPermutations.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/obj/Debug/netcoreapp2.1/024-LexicographicPermutations.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/obj/Debug/netcoreapp2.1/024-LexicographicPermutations.dll
+/Users/wendy/Projects/Euler/024-LexicographicPermutations/024-LexicographicPermutations/obj/Debug/netcoreapp2.1/024-LexicographicPermutations.pdb
