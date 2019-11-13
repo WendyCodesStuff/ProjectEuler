@@ -1,0 +1,10 @@
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/bin/Debug/netcoreapp2.1/025-Fibonacci1000Digits.deps.json
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/bin/Debug/netcoreapp2.1/025-Fibonacci1000Digits.runtimeconfig.json
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/bin/Debug/netcoreapp2.1/025-Fibonacci1000Digits.runtimeconfig.dev.json
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/bin/Debug/netcoreapp2.1/025-Fibonacci1000Digits.dll
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/bin/Debug/netcoreapp2.1/025-Fibonacci1000Digits.pdb
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/obj/Debug/netcoreapp2.1/025-Fibonacci1000Digits.csprojAssemblyReference.cache
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/obj/Debug/netcoreapp2.1/025-Fibonacci1000Digits.AssemblyInfoInputs.cache
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/obj/Debug/netcoreapp2.1/025-Fibonacci1000Digits.AssemblyInfo.cs
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/obj/Debug/netcoreapp2.1/025-Fibonacci1000Digits.dll
+/Users/wendy/Projects/Euler/025-Fibonacci1000Digits/025-Fibonacci1000Digits/obj/Debug/netcoreapp2.1/025-Fibonacci1000Digits.pdb
